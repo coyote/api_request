@@ -1,6 +1,6 @@
 # ApiRequest
 
-TODO: Write a gem description
+A generic Ruby API client.  This client is for those APIs who authenticate via an HTTP header (e.g., not basic Auth).
 
 ## Installation
 
